@@ -18,24 +18,24 @@
 <!-- 💻  -->
 ## 🛠️ Languages & Tools :
 
-> ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=Java&logoColor=white)
-![MySql](https://img.shields.io/badge/MySql-00758f?style=for-the-badge&logo=MySql&logoColor=white)
-![Springboot](https://img.shields.io/badge/springboot-64b743?style=for-the-badge&logo=springboot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/hibernate-bcae79?style=for-the-badge&logo=hibernate&logoColor=white)
+> ![MySql](https://img.shields.io/badge/MySql-00758f?style=for-the-badge&logo=MySql&logoColor=white)
+![Essential AWS](https://img.shields.io/badge/aws-64b743?style=for-the-badge&logo=aws&logoColor=white)
+![PHP](https://img.shields.io/badge/php-bcae79?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-%231511B6.svg?style=for-the-badge&logo=Python&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-blue.svg?style=for-the-badge&logo=netlify&logoColor=white)
 
+<!--
 > ![Postman](https://img.shields.io/badge/Postman-f15a24?style=for-the-badge&logo=Postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-679200?style=for-the-badge&logo=Swagger&logoColor=white)
 ![JSON Server](https://img.shields.io/badge/json%20server-323455?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
-![Netlify](https://img.shields.io/badge/netlify-blue.svg?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-gray.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-dd4c35?style=for-the-badge&logo=Git&logoColor=white)
 ![Github](https://img.shields.io/badge/Github-333333?style=for-the-badge&logo=Github&logoColor=white)
-![STS](https://img.shields.io/badge/STS-58b531?style=for-the-badge&logo=spring&logoColor=white)
-<!-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) -->
+![STS](https://img.shields.io/badge/STS-58b531?style=for-the-badge&logo=spring&logoColor=white) -->
 
 <!--
 <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
