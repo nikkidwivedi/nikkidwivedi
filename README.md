@@ -27,6 +27,8 @@
 ![Python](https://img.shields.io/badge/Python-%231511B6.svg?style=for-the-badge&logo=Python&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-blue.svg?style=for-the-badge&logo=netlify&logoColor=white)
+![PHP](https://img.shields.io/badge/php-blue.svg?style=for-the-badge&logo=php&logoColor=white)
+
 
 <!--
 > ![Postman](https://img.shields.io/badge/Postman-f15a24?style=for-the-badge&logo=Postman&logoColor=white)
