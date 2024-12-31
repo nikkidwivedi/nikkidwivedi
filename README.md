@@ -19,7 +19,7 @@
 ## 🛠️ Languages & Tools :
 
 ![MySql](https://img.shields.io/badge/MySql-00758f?style=for-the-badge&logo=MySql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-bcae79?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -28,7 +28,6 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-blue.svg?style=for-the-badge&logo=netlify&logoColor=white)
 ![React](https://img.shields.io/badge/React-blue.svg?style=for-the-badge&logo=React&logoColor=white)
-
 
 <!--
 > ![Postman](https://img.shields.io/badge/Postman-f15a24?style=for-the-badge&logo=Postman&logoColor=white)
