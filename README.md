@@ -27,8 +27,7 @@
 ![Python](https://img.shields.io/badge/Python-%231511B6.svg?style=for-the-badge&logo=Python&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-blue.svg?style=for-the-badge&logo=netlify&logoColor=white)
-![Reactjs](https://img.shields.io/badge/Reactjs-blue.svg?style=for-the-badge&logo=Reactjs&logoColor=white)
-
+![React](https://img.shields.io/badge/React-blue.svg?style=for-the-badge&logo=React&logoColor=white)
 
 
 <!--
