@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About me :
 
-- 🌱 I’m currently working as **Junior PHP Developer**
+- 🌱 I’m currently working as **PHP Developer**
 
 - 📫 How to reach me : **nikkivdwivedi@gmail.com**
 
