@@ -26,9 +26,7 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon&&logoColor=white)
 ![React](https://img.shields.io/badge/React-blue.svg?style=for-the-badge&logo=React&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-red.svg?style=for-the-badge&logo=Laravel&logoColor=white)
+ 
 
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-
-<p align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Thank+you+for+visiting!+😊&font=Fira%20Code&center=true&width=700&height=50&weight=600&size=18&duration=2000&pause=2000"> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=2000&color=F70000&center=true&vCenter=true&width=700&height=50&lines=Thank+you+for+visiting!+😊" alt="Thank You Typing SVG" />
+</p>
