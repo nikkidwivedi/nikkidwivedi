@@ -1,7 +1,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=2000&color=F70000&center=true&vCenter=true&width=700&height=50&lines=Hi+👋+from+Nikki!;Full+Stack+Software+Developer+From+India" alt="Typing SVG" />
 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer Coding" width="400" />
+
 </p> 
 
 ## 👨‍💻 About me :
