@@ -24,7 +24,6 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon&&logoColor=white)
 ![React](https://img.shields.io/badge/React-blue.svg?style=for-the-badge&logo=React&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-red.svg?style=for-the-badge&logo=Laravel&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-red.svg?style=for-the-badge&logo=Laravel&logoColor=white)
 
 
 
